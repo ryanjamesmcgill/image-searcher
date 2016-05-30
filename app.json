@@ -1,0 +1,11 @@
+{
+  "name": "image-seracher",
+  "description": "freecodecamp.com project, Image Search Abstraction Layer",
+  "repository": "",
+  "logo": "",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "image": "heroku/nodejs"
+}
