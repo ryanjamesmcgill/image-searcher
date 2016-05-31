@@ -1,11 +1,11 @@
 # API Basejump: Image Search Abstraction Layer
 
-<strong>live demo:</strong> <a href="">/a>
+<strong>live demo:</strong> <a href="https://image-searcher-rjm.herokuapp.com/">https://image-searcher-rjm.herokuapp.com/</a>
 
 ## Usage
 
 ```bash
-$ git clone 
+$ git clone https://github.com/ryanjamesmcgill/image-searcher.git
 $ cd your-project
 $ node server.js
 ```
